@@ -1,4 +1,4 @@
-# terraform-hcp-demo
+# terraform-hcp-vcs-azure-storage-account
 
 A simple Terraform project demonstrating HCP Terraform (Terraform Cloud) with VCS-driven workflow — deploys a Resource Group and Storage Account on Azure, with state managed remotely by HCP.
 
