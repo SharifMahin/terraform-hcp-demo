@@ -39,7 +39,7 @@ Storage Account + Blob Container
 ## 📁 Project Structure
 
 ```
-terraform-hcp-demo/
+terraform-hcp-vcs-azure-storage-account/
 ├── provider.tf      # Terraform cloud block + AzureRM provider
 ├── main.tf          # Resource Group + Storage Account + Container
 ├── variables.tf     # Variable declarations with validation
@@ -129,7 +129,7 @@ Workspace → Runs → Confirm & Apply
 
 ```
 HCP Dashboard
-    → Workspace → terraform-hcp-demo
+    → Workspace → terraform-hcp-vcs-azure-storage-account
         → Settings
             → Destruction and Deletion
                 → Queue Destroy Plan
